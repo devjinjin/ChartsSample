@@ -1,0 +1,6 @@
+framework module Pods_ChartsSample_ChartsSampleUITests {
+  umbrella header "Pods-ChartsSample-ChartsSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
